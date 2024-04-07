@@ -6,3 +6,4 @@
 brew tap suminhong/tap
 brew install gohonglab
 ```
+<img width="906" alt="image" src="https://github.com/suminhong/gohonglab/assets/35161069/e2a4550b-c27f-400e-b8b8-9f4a4dd78361">
